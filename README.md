@@ -5,7 +5,9 @@
 For easiest way to deploy this Bot click on the below button
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBA_MARRIE"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
-##
+#### CONTACT ME ON TELEGRAM
+
+[![TELEGRAM](https://telegra.ph/file/ea68644f59bdaf57fd61e.jpg)](https://t.me/MAMBA_STAR)
 
 
 
