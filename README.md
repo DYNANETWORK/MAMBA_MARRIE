@@ -33,6 +33,6 @@ For easiest way to deploy this Bot click on the below button
 
 #
 
-[![Deploy](https://telegra.ph/file/e75b8ff32e728d5780ee6.png)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBA_MARFIE.git)
+[![Deploy](https://heroku.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/MAMBA_MARFIE.git)
 
 #### THIS BOT IS POWERED BY MAMBA NETWORKS 
